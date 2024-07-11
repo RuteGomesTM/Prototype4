@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - powerup
+  - Enemy
+  - Powerup
+  - Powerup1
+  - Enemy1
   layers:
   - Default
   - TransparentFX
